@@ -1,5 +1,5 @@
 # MLE.BI
- Machine Learning Empowered Business Intelligence course
+ **Machine Learning Empowered Business Intelligence** course
 
 This is a course about the use and development of machine learning techniques in and for business problems. 
 
